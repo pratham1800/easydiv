@@ -1,0 +1,23 @@
+{
+  "name": "splitwise-latest",
+  "version": "1.0.0",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "concurrently \"cd frontend && npm start \" \"cd server && npm start \" "
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamvirat22/Splitwise-Website-NSDEV/issues"
+  },
+  "homepage": "https://github.com/iamvirat22/Splitwise-Website-NSDEV#readme",
+  "dependencies": {
+    "concurrently": "^8.0.1"
+  }
+}
